@@ -1,0 +1,5 @@
+D:/git_Warehouse/CMake_learn/build/CMakeFiles/edit_cache.dir
+D:/git_Warehouse/CMake_learn/build/CMakeFiles/rebuild_cache.dir
+D:/git_Warehouse/CMake_learn/build/src/CMakeFiles/test.dir
+D:/git_Warehouse/CMake_learn/build/src/CMakeFiles/edit_cache.dir
+D:/git_Warehouse/CMake_learn/build/src/CMakeFiles/rebuild_cache.dir

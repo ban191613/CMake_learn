@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/git_Warehouse/CMake_learn/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\test.dir\\main.cpp.obj -c D:\\git_Warehouse\\CMake_learn\\src\\main.cpp",
+  "file": "D:/git_Warehouse/CMake_learn/src/main.cpp"
+},
+{
+  "directory": "D:/git_Warehouse/CMake_learn/build/src",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -o CMakeFiles\\test.dir\\maincopy.cpp.obj -c D:\\git_Warehouse\\CMake_learn\\src\\maincopy.cpp",
+  "file": "D:/git_Warehouse/CMake_learn/src/maincopy.cpp"
+}
+]
